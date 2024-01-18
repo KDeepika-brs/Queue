@@ -4,3 +4,14 @@
 
 # Concepts used this theme :
 ###### Class
+###### Constructor
+###### Queue
+###### enqueue
+###### dequeue
+###### Peek
+###### isEmpty
+###### size
+###### Conditional
+###### Comparisons
+###### Function
+
